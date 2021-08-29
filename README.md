@@ -5,7 +5,7 @@
 A Web developer with experience building web development. Specializing in Full Stack development with PHP, Laravel, WordPress CMS, MySQL. 
 
 * Backend: PHP.
-* CMS: WordPress, Open Cart, Drupal.
+* CMS: WordPress.
 * Frameworks: Laravel.
 * Databases: Mysql, SQLite.
 * Frontend: Vuejs, Bootstrap, HTML, Javascript, jQuey.
