@@ -11,7 +11,7 @@ A Web developer with experience building web development. Specializing in Full S
 * Frontend: Vuejs, Bootstrap, HTML, Javascript, jQuey.
 * Other: Ajax, web APIs.
 
-### You can reach me out anytime for any question about my courses or anything you'd like to discuss ^^
+### You can reach me out anytime for any question about anything you'd like to discuss ^^
 
 - 🌱 I’m currently learning ... Laravel, Vue.js, Symfony
 
