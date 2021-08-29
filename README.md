@@ -21,7 +21,7 @@ A Web developer with experience building web development. Specializing in Full S
   <a href ="https://www.linkedin.com/in/ezzat-makar/">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href ="https://www.facebook.com/aezzatmakar93/">
+  <a href ="https://www.facebook.com/ezzatmakar93/">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href ="https://twitter.com/zizo_makar">
