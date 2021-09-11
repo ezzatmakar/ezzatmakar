@@ -32,8 +32,8 @@ A Web developer with experience building web development. Specializing in Full S
 <br>
 <br>
 <p  align="center" >
-  <a href="https://github.com/ezzatmalak">
-    <img src="https://github-readme-stats.vercel.app/api?username=ezzatmalak&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/> 
+  <a href="https://github.com/ezzatmakar">
+    <img src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/> 
   </a>
 </p>
 
