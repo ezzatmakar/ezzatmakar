@@ -34,10 +34,15 @@ A Web developer with experience building web development. Specializing in Full S
 
 <br>
 <br>
-<p  align="center" >
+<p  align="left" >
   <a href="https://github.com/ezzatmakar">
     <img src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/> 
   </a>
+</p>
+<p align="right">
+<a href="https://github.com/ezzatmakar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
+</a>
 </p>
 
 # Programming skills.
