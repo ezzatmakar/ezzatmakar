@@ -36,6 +36,7 @@ A Web developer with experience building web development. Specializing in Full S
     <img src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/> 
   </a>
 </p>
+![profile visit](https://komarev.com/ghpvc/?username=ezzatmakar) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/ezzatmakar)](https://badges.pufler.dev) 
 
 # Programming skills.
 
