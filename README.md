@@ -1,12 +1,7 @@
-### Hi there,  Ezzat Makar 
+### Hi there,
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
-<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/ezzatmakar"><img src="https://img.shields.io/github/stars/ezzatmakar/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/ezzatmakar/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/ezzatmakar/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ezzatmakar/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ezzatmakar/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ezzatmakar/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 </div>
 ###### *Web Developer*
 
@@ -37,11 +32,11 @@ A Web developer with experience building web development. Specializing in Full S
   </a>
 </p>
 
-<div>
+<div align="center>
 <a href="https://github.com/ezzatmakar">
-<img src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/></a>
+<img height="100" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/></a>
 <a href="https://github.com/ezzatmakar">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
+<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
 </a>
 
 </div>
