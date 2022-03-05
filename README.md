@@ -1,6 +1,13 @@
 ### Hi there,  Ezzat Makar 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" /> </p>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
+<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/ezzatmakar"><img src="https://img.shields.io/github/stars/ezzatmakar/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/ezzatmakar/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/ezzatmakar/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ezzatmakar/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ezzatmakar/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/ezzatmakar/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ezzatmakar/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+</div>
 ###### *Web Developer*
 
 A Web developer with experience building web development. Specializing in Full Stack development with PHP, Laravel, WordPress CMS, MySQL. 
