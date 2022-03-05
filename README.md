@@ -18,7 +18,7 @@ A Web developer with experience building web development. Specializing in Full S
 
 <br>
 
-<p align ="center">
+<p  >
   <a href ="https://www.linkedin.com/in/ezzat-makar/">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
@@ -34,7 +34,7 @@ A Web developer with experience building web development. Specializing in Full S
 <a href="https://github.com/ezzatmakar">
 <img src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/></a>
 <a href="https://github.com/ezzatmakar">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
 </a>
 
 </div>
