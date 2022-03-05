@@ -34,9 +34,9 @@ A Web developer with experience building web development. Specializing in Full S
 
 <div align="center>
 <a href="https://github.com/ezzatmakar">
-<img height="100" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/></a>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/></a>
 <a href="https://github.com/ezzatmakar">
-<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
 </a>
 
 </div>
