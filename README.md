@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
-<img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=blue&style=plastic" alt="ezzatmakar" />
+<img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=green&style=plastic" alt="ezzatmakar" />
 </div>
 ###### *Web Developer*
 
