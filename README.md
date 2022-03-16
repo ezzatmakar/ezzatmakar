@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
-[![Repos Badge](https://badges.pufler.dev/repos/ezzatmakar)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=blue&style=plastic" alt="ezzatmakar" />
 </div>
 ###### *Web Developer*
 
