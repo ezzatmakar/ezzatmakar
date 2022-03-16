@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
+[![Repos Badge](https://badges.pufler.dev/repos/ezzatmakar)](https://badges.pufler.dev)
 </div>
 ###### *Web Developer*
 
@@ -56,7 +57,6 @@ A Web developer with experience building web development. Specializing in Full S
 <div>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-![profile visit](https://komarev.com/ghpvc/?username=ezzatmakar) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/ezzatmakar)](https://badges.pufler.dev)                                                                                                                          
 </div>
 
 <br>
