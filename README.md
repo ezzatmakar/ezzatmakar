@@ -10,7 +10,7 @@ A Web developer with experience building web development. Specializing in Full S
 
 * Backend: PHP.
 * CMS: WordPress.
-* Frameworks: Laravel.
+* Frameworks: Laravel | Zend Freamwork
 * Databases: Mysql, SQLite.
 * Frontend: Vuejs, Bootstrap, HTML, Javascript, jQuey.
 * Other: Ajax, web APIs.
