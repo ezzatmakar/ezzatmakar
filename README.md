@@ -21,7 +21,7 @@ A Web developer with experience building web development. Specializing in Full S
 
 <br>
 
-<p  >
+<p>
   <a href ="https://www.linkedin.com/in/ezzat-makar/">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
@@ -93,5 +93,14 @@ A Web developer with experience building web development. Specializing in Full S
  <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
 
 </div>
+
+# My GitHub Stats 😎
+<p aligh="left"> <a href="http://www.github.com/ezzatmakar"><img
+            src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+            alt="miladezzat's GitHub stats" width="420px" /></a> <a href="https://github-readme-streak-stats.herokuapp.com/?user=ezzatmakar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+            width="420px" /></a> </p>
+<a href="http://www.github.com/ezzatmakar"><img
+        src="https://activity-graph.herokuapp.com/graph?username=ezzatmakar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+        alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" /></a>
 
 <br>
