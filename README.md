@@ -4,20 +4,20 @@
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=green&style=plastic" alt="ezzatmakar" />
 </div>
-###### *Web Developer*
+###### *Software Engineer*
 
 A Web developer with experience building web development. Specializing in Full Stack development with PHP, Laravel, WordPress CMS, MySQL. 
 
-* Backend: PHP.
+* Backend: PHP.NodeJS
 * CMS: WordPress.
-* Frameworks: Laravel | Zend Freamwork
-* Databases: Mysql, SQLite.
-* Frontend: Vuejs, Bootstrap, HTML, Javascript, jQuey.
+* Frameworks: Laravel | Zend Freamwork | NestJS |ExpresJS
+* Databases: Mysql, SQLite, MongoDB
+* Frontend: Javascript, Vuejs, Bootstrap, HTML, jQuey.
 * Other: Ajax, web APIs.
 
 ### You can reach me out anytime for any question about anything you'd like to discuss 🤝
 
-- 🌱 I’m currently learning ... Laravel, Vue.js, Symfony
+- 🌱 I’m currently focusing ... TypeScript
 
 <br>
 
