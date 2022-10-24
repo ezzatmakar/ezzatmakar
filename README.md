@@ -8,12 +8,12 @@
 
 A Web developer with experience building web development. Specializing in Full Stack development with PHP, Laravel, WordPress CMS, MySQL. 
 
-* Backend: PHP.NodeJS
+* Backend: PHP | NodeJS
 * CMS: WordPress.
-* Frameworks: Laravel | Zend Freamwork | NestJS |ExpresJS
-* Databases: Mysql, SQLite, MongoDB
+* Frameworks: Laravel | Zend Freamwork | NestJS | ExpresJS
+* Databases: Mysql, SQLite, MongoDB, PostgreSQL, Redis
 * Frontend: Javascript, Vuejs, Bootstrap, HTML, jQuey.
-* Other: Ajax, web APIs.
+* Other: Ajax, web APIs, Swagger
 
 ### You can reach me out anytime for any question about anything you'd like to discuss 🤝
 
