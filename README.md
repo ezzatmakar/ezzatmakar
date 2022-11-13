@@ -6,7 +6,7 @@
 </div>
 ###### *Software Engineer*
 
-A Web developer with experience building web development. Specializing in Full Stack development with PHP, Laravel, WordPress CMS, MySQL. 
+A Web developer with experience building web development. Specializing in Full Stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, MySQL. 
 
 * Backend: PHP | NodeJS
 * CMS: WordPress.
@@ -67,6 +67,7 @@ A Web developer with experience building web development. Specializing in Full S
 <div>
 
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NodeJs-FF2D20?style=for-the-badge&logo=NodeJs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-wordpress-2773aa?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
