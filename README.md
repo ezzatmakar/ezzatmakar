@@ -6,7 +6,7 @@
 </div>
 ###### *Software Engineer*
 
-A Web developer with experience building web development. Specializing in Full Stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, MySQL. 
+I'm a **SOFTWARE ENGINEER** _FULL STACK WEB DEVELOPER_ experience building web development. Specializing in Full Stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, MySQL. 
 
 * Backend: PHP | NodeJS
 * Frameworks: Laravel | Zend Freamwork | NestJS | ExpresJS
