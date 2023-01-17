@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
 <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=green&style=plastic" alt="ezzatmakar" />
 </div>
-###### *Software Engineer*
+### **Software Engineer**
 
 I'm a **SOFTWARE ENGINEER** _FULL STACK WEB DEVELOPER_ experience building web development. Specializing in Full Stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, MySQL. 
 
