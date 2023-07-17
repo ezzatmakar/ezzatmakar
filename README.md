@@ -11,12 +11,12 @@ I'm a **SOFTWARE ENGINEER** _FULL STACK WEB DEVELOPER_ with experience in buildi
 Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, and MySQL. 
 
 * Backend: PHP | NodeJS
-* Frameworks: Laravel | Zend Freamwork | NestJS | ExpresJS
+* Frameworks: Laravel | Zend Framework | NestJS | ExpresJS
 * Databases: Mysql, SQLite, MongoDB, PostgreSQL, Redis
-* Frontend: Javascript, Vuejs, Bootstrap, HTML, jQuey.
+* Frontend: Javascript, Vuejs, Bootstrap, HTML, jquery.
 * Other: Ajax, web APIs, Swagger
 
-### You can reach me out anytime for any question about anything you'd like to discuss 🤝
+### You can reach me out anytime for any questions about anything you'd like to discuss 🤝
 
 - 🌱 I’m currently focusing ... TypeScript
 
