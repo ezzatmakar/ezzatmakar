@@ -9,8 +9,7 @@
 
 I'm a **SOFTWARE ENGINEER** _FULL STACK WEB DEVELOPER_ with experience in building and designing web applications.
 Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, and MySQL. 
-
-#### Check [Check My Personal Portoflio][[an_awesome_website_link](https://ezzatmakar.vercel.app/)].
+**[Check My Portfolio](https://ezzatmakar.vercel.app)**
 
 * Backend: PHP | NodeJS
 * Frameworks: Laravel | Zend Framework | NestJS | ExpresJS
