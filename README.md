@@ -66,12 +66,12 @@ Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Lara
 # Frameworks and CMS
 
 <div>
-
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NodeJs-FF2D20?style=for-the-badge&logo=NodeJs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-wordpress-2773aa?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NodeJs-FF2D20?style=for-the-badge&logo=NodeJs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NodeJs-FF2D20?style=for-the-badge&logo=NodeJs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-wordpress-2773aa?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div>
 
 <br>
@@ -80,8 +80,11 @@ Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Lara
 # Databases
 
 <div>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
 # Used Technologies/Tools
