@@ -22,6 +22,11 @@ Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Lara
 
 <br>
 
+### My Portfolio
+<a href ="https://ezzatmakar.vercel.app">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+
 <p>
   <a href ="https://www.linkedin.com/in/ezzat-makar/">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
@@ -63,10 +68,11 @@ Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Lara
 <br>
 <br>
 
-# Frameworks and CMS
+# Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
