@@ -27,6 +27,7 @@ Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Lara
   My Personal Portoflio
 </a>
 </br>
+</hr>
 <p>
   <a href ="https://www.linkedin.com/in/ezzat-makar/">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
