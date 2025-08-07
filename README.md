@@ -1,121 +1,126 @@
-### Hi there,
+<h1 align="center">Hi there, I'm Ezzat Makar 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=green&style=plastic" alt="Repos" />
+</p>
+
+<p align="center">
+  <strong>Software Engineer | Full Stack Web Developer</strong>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a passionate **Full Stack Software Engineer** with expertise in both backend and frontend technologies. I specialize in building scalable web applications, RESTful APIs, and dynamic user interfaces using:
+
+- **Backend**: PHP, NodeJS
+- **Frameworks**: Laravel, NestJS, ExpressJS, Zend Framework
+- **Databases**: MySQL, SQLite, MongoDB, PostgreSQL, Redis
+- **Frontend**: VueJS, React, HTML5, CSS3, JavaScript, jQuery, Bootstrap
+- **Other**: AJAX, Swagger, REST APIs, WordPress CMS
+
+🌐 **[Check out my Portfolio →](https://ezzatmakar.pages.dev/)**
+
+---
+
+### 🌱 Currently Focusing On
+
+- Advanced **TypeScript** development
+- Improving system design and architecture
+- Exploring **DevOps**, **CI/CD**, and **containerization**
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ezzat-makar/">
+    <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/ezzatmakar93/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/zizo_makar">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+### 🧱 Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+
+### 🗄 Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-CB2E6D?style=for-the-badge&logo=azure-pipelines&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Views&color=blue&style=plastic" alt="ezzatmakar" />
-<img src="https://komarev.com/ghpvc/?username=ezzatmakar&label=Repos&color=green&style=plastic" alt="ezzatmakar" />
+  <a href="https://github.com/ezzatmakar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/ezzatmakar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
-#### **Software Engineer**
+---
 
-I'm a **SOFTWARE ENGINEER** _FULL STACK WEB DEVELOPER_ with experience in building and designing web applications.
-Specializing in full stack development with NodeJs, NestJS, ExpressJS, PHP, Laravel, WordPress CMS, and MySQL. 
-**[Check My Portfolio](https://ezzatmakar.pages.dev/)**
+### 🔥 GitHub Streak
 
-* Backend: PHP | NodeJS
-* Frameworks: Laravel | Zend Framework | NestJS | ExpresJS
-* Databases: Mysql, SQLite, MongoDB, PostgreSQL, Redis
-* Frontend: Javascript, Vuejs, Bootstrap, HTML, jquery.
-* Other: Ajax, web APIs, Swagger
-
-### You can reach me out anytime for any questions about anything you'd like to discuss 🤝
-
-- 🌱 I’m currently focusing ... TypeScript
-
-<br>
-<p>
-  <a href ="https://www.linkedin.com/in/ezzat-makar/">
-  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href ="https://www.facebook.com/ezzatmakar93/">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href ="https://twitter.com/zizo_makar">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/ezzatmakar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzatmakar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420px" />
   </a>
 </p>
 
-<div align="center>
-<a href="https://github.com/ezzatmakar">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7"/></a>
-<a href="https://github.com/ezzatmakar">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=light&hide_langs_below=1" />
-</a>
+---
 
-</div>
+### 🏆 GitHub Trophies
 
-<br>
-
-# Programming Languages
-
-<div>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</div>
-
-<br>
-<br>
-
-# Frameworks
-
-<div>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-wordpress-2773aa?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</div>
-
-
-<br>
-<br>
-
-# Databases
-
-<div>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-</div>
-
-# Used Technologies/Tools
-
-<div>
-
- <img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
- <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=black"/>
- <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
-
-</div>
-
-# My GitHub Stats 😎
-<p aligh="left"> <a href="http://www.github.com/ezzatmakar"><img
-            src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-            alt="Ezzat Makar's GitHub stats" width="420px" /></a></p>
-
-<p align="right">
-  <a href="http://www.github.com/ezzatmakar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzatmakar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-         width="420px" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ezzatmakar&theme=darkhub&margin-w=15&no-bg=true" />
 </p>
 
+---
 
-<br>
-### 🏆 Github trophies
-
-<p>
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=ezzatmakar&margin-w=15theme=dark)
-    
-</p>
-
-<hr>
-
-![ezzatmakar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+> 💬 *“You can reach out to me anytime if you want to talk tech, collaborate on projects, or just connect!”* 🤝
