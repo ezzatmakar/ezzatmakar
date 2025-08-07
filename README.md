@@ -107,11 +107,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in both backend
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ezzatmakar&theme=material-palenight&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ezzatmakar&theme=vue-dark" alt="GitHub Streak" /></a>
 
 ---
 
