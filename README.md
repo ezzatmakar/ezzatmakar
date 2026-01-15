@@ -43,21 +43,21 @@ I care deeply about **code quality, system design, and real-world impact**.
 ---
 
 ## 🌐 Portfolio
-🔗 **Check out my work:** *(add your link here)*
+🔗 **Check out my work:** *(https://ezzatmakar.vercel.app)*
 
 ---
 
 ## 🔗 Connect With Me
 - GitHub: https://github.com/ezzatmakar  
-- LinkedIn: *(add link)*  
-- Email: *(optional)*
+- LinkedIn: *(https://www.linkedin.com/in/ezzat-makar)*  
+- Email: *(ezzatmakar93@gmail.com)*
 
 ---
 
 ## 🛠 Programming Languages
 - PHP  
 - JavaScript / TypeScript  
-- SQL  
+- SQL
 
 ## 🧱 Frameworks & Libraries
 - Laravel, NestJS, Express.js  
