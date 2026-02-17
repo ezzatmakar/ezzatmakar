@@ -352,22 +352,6 @@ graph TB
 
 **Thanks for stopping by! Let's build something incredible together** ✨
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ *"First, solve the problem. Then, write the code."* – John Johnson
-
-**Thanks for stopping by! Let's build something incredible together** ✨
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
