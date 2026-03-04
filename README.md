@@ -289,7 +289,7 @@ graph TB
 🧠 Learning new technologies  
 🎯 Contributing to open source  
 📚 Reading tech blogs & documentation  
-☕ Drinking coffee & debugging  
+☕️ Drinking coffee & debugging  
 🎵 Listening to music while coding  
 
 ---
