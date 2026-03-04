@@ -26,14 +26,14 @@ const ezzat = {
     askMeAbout: ["web dev", "backend architecture", "API design", "database optimization"],
     technologies: {
         backEnd: {
-            php: ["Laravel", "WordPress"],
+            php: ["Laravel", "Laminas (Zend Framework)", "Symfony"],
             js: ["Node.js", "NestJS", "Express"],
         },
         frontEnd: {
-            js: ["React", "Vue.js"],
+            js: ["React", "Next.js", "Vue.js"],
             css: ["Bootstrap", "Tailwind"]
         },
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "MariaDB"],
         misc: ["REST APIs", "Swagger", "Git", "Docker"]
     },
     currentFocus: "Building scalable distributed systems",
@@ -48,6 +48,7 @@ const ezzat = {
 I'm a passionate **Full-Stack Software Engineer** dedicated to crafting **scalable, maintainable, and high-performance web applications** that solve real-world problems. With expertise spanning both backend architecture and frontend development, I thrive in building end-to-end solutions that deliver exceptional user experiences.
 
 **What drives me:**
+
 - 🎯 **Problem Solver** — I love tackling complex technical challenges and finding elegant solutions
 - 🏗️ **System Architect** — Designing robust, scalable systems that stand the test of time
 - 💡 **Continuous Learner** — Always exploring new technologies and best practices
@@ -192,16 +193,7 @@ const currentGoals2025 = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzatmakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezzatmakar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -265,7 +257,7 @@ graph TB
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
-- ✅ Pixel-perfect, responsive UI
+
 - ✅ Modern component architecture
 - ✅ Performance optimization
 - ✅ Cross-browser compatibility
@@ -277,6 +269,7 @@ graph TB
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Development
+
 - ✅ RESTful API design
 - ✅ Database optimization
 - ✅ Authentication & security
@@ -293,7 +286,7 @@ graph TB
 
 ## 🎮 When I'm Not Coding
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Learning new technologies  
+🧠 Learning new technologies  
 🎯 Contributing to open source  
 📚 Reading tech blogs & documentation  
 ☕ Drinking coffee & debugging  
@@ -321,11 +314,11 @@ graph TB
 
 ---
 
-## 📫 Let's Connect & Build Something Amazing!
+## 📫 Let's Connect & Build Something Amazing
 
 <div align="center">
 
-💼 **Open to exciting opportunities and collaborations!**
+### 💼 Open to exciting opportunities and collaborations!
 
 <br>
 
@@ -334,13 +327,32 @@ graph TB
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzatmakar93@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/ezzatmakar)
 
+<br><br>
+
+**💡 I am currently interested in:**
+
 <br>
 
-**💡 Interested in:**
-- 🚀 Full-time opportunities
-- 🤝 Freelance projects
-- 💬 Tech discussions
-- 🌟 Open-source collaborations
+<table>
+    <tr>
+        <td align="center" width="200">
+            <h2 align="center">🚀</h2>
+            <b>Full-time<br>Opportunities</b>
+        </td>
+        <td align="center" width="200">
+            <h2 align="center">🤝</h2>
+            <b>Freelance<br>Projects</b>
+        </td>
+        <td align="center" width="200">
+            <h2 align="center">💬</h2>
+            <b>Tech<br>Discussions</b>
+        </td>
+        <td align="center" width="200">
+            <h2 align="center">🌟</h2>
+            <b>Open-source<br>Collaborations</b>
+        </td>
+    </tr>
+</table>
 
 </div>
 
