@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ezzat Makar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ezzatmakar.vercel.app-blue?style=for-the-badge&logo=vercel)](https://ezzatmakar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ezzat-makar)
@@ -20,7 +20,7 @@
 
 ```javascript
 const ezzat = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     location: "🌍 Building from anywhere",
     code: ["PHP", "JavaScript", "TypeScript", "SQL"],
     askMeAbout: ["web dev", "backend architecture", "API design", "database optimization"],
@@ -167,7 +167,7 @@ I'm a passionate **Full-Stack Software Engineer** dedicated to crafting **scalab
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const currentGoals2025 = {
+const currentGoals2026 = {
     learning: [
         "🎯 Advanced TypeScript patterns",
         "🏗️ Microservices architecture",
@@ -193,7 +193,14 @@ const currentGoals2025 = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzatmakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ezzatmakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatmakar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=ezzatmakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
